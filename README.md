@@ -18,7 +18,7 @@ GitHub **cannot display large HTML files** directly in the browser. When you cli
 ### **How to View the Report Properly:**
 
 ####  Download and Open Locally 
-1. **Click** the `data_profile.html` file in the repository
+1. **Click** the `titanic_report.html` file in the repository
 2. **Click** the **"Download"** button (or right-click "View raw" → "Save link as...")
 3. **Save** the file to your computer
 4. **Open** the `.html` file in any modern web browser (Chrome, Firefox, Edge, etc.)
