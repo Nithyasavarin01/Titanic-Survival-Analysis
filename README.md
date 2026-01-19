@@ -6,7 +6,7 @@ This repository contains a comprehensive data profiling report for the dataset a
 
 ## 📁 Report Files
 
-### **`data_profile.html`** - Interactive Data Profiling Report
+### **`titanic_report.html`** - Interactive Data Profiling Report
 This is an **interactive HTML report** generated using [ydata-profiling](https://github.com/ydataai/ydata-profiling) (formerly pandas-profiling).
 
 ## ⚠️ Important: How to View the Report
